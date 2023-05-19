@@ -20,6 +20,6 @@
 
     <Label fx:id="motAffiche" />
    <TextField fx:id="lettre" prefHeight="26.0" prefWidth="6.0" />
-   <Button mnemonicParsing="false" onAction="#essayerLettre" text="essayer" />
+   <Button mnemonicParsing="false" onAction="#essayerLettre" text="essayer!!!!!!" />
     <Button onAction="#NouveauMot" text="demarrer" />
 </VBox>
